@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/stickers/dev-developers-yooda-KJmbSTSyIzetubNgJ5" width="100"/>
+  <img src="https://media.giphy.com/media/KJmbSTSyIzetubNgJ5/giphy.gif" width="100"/>
 </div>
 
 
