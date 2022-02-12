@@ -10,6 +10,9 @@
   <a href="https://twitter.com/andreaborellia/" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+    <a href="https://codepen.io/andreaborelli" target="_blank">
+    <img src="https://img.shields.io/badge/Codepen-1E1F25?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen Badge"/>
+  </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=andreborelli&style=flat-square&color=blue" alt=""/>
 
