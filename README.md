@@ -17,13 +17,10 @@
 <img src="https://komarev.com/ghpvc/?username=andreborelli&style=flat-square&color=blue" alt=""/>
 
 <h1>
-  Hi there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+:man_technologist:
+Hello, World!
 </h1>
-
-### :man_technologist: Junior Web Developer
- updating
----
+ <h3>updating</h3>
 
 
 
