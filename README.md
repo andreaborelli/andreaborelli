@@ -17,10 +17,9 @@
 <img src="https://komarev.com/ghpvc/?username=andreborelli&style=flat-square&color=blue" alt=""/>
 
 <h1>
-:man_technologist:
-Hello, World!
+:man_technologist: Hello, World!
 </h1>
- <h3>updating</h3>
+ <h3>. . . u p d a t e . . .</h3>
 
 
 
