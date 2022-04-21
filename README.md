@@ -25,6 +25,7 @@
 <a href="https://eloquentjavascript.net/" target="_blank">Eloquent Javascript</a>
 
 
+<a href="https://learnjavascript.online/" target="_blank">Learn Javascript</a>
 
 
 <!--
