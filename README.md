@@ -22,7 +22,7 @@
  <h3>. . . u p d a t e . . .</h3>
 
 
-<a href="https://eloquentjavascript.net/">Eloquent Javascript</a>
+<a href="https://eloquentjavascript.net/" target="_blank">Eloquent Javascript</a>
 
 
 
