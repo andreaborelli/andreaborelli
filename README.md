@@ -44,3 +44,4 @@ Here are some ideas to get you started:
 -->
 
 https://mikkegoes.com/javascript-projects-for-beginners/
+https://www.borga.it/public/documenti/main/_website/images/Design/HTML/WC_UD02.pdf
