@@ -53,6 +53,6 @@ Here are some ideas to get you started:
 </div>
 
 ###
-</div>
+
 <img src="https://komarev.com/ghpvc/?username=andreborelli&style=flat-square&color=blue" alt=""/>
 
