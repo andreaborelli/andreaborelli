@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h2 align="left">I code</h2>
+<h2 align="left"> :man_technologist: I code</h2>
 
 ###
 
@@ -47,21 +47,15 @@ Here are some ideas to get you started:
 ###
 ### :man_technologist: Languages and Tools :
 
+###
 
-<hr>
-<div id="badges">
+<div align="left">
   <a href="https://www.linkedin.com/in/andreaborelli/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.facebook.com/andreaborellia/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-  <a href="https://twitter.com/andreaborellia/" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-    <a href="https://codepen.io/andreaborelli" target="_blank">
-    <img src="https://img.shields.io/badge/Codepen-1E1F25?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen Badge"/>
-  </a>
+</div>
+
+###
 </div>
 <img src="https://komarev.com/ghpvc/?username=andreborelli&style=flat-square&color=blue" alt=""/>
 
