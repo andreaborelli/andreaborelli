@@ -45,9 +45,6 @@ Here are some ideas to get you started:
 </div>
 
 ###
-### :man_technologist: Languages and Tools :
-
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/andreaborelli/" target="_blank">
