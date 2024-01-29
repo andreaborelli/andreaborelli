@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I code</h2>
 
 ###
 
@@ -47,26 +47,7 @@ Here are some ideas to get you started:
 ###
 ### :man_technologist: Languages and Tools :
 
-<div>
-  <a href="#" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>
-  </a>
-   <a href="#" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="60"/>
-  </a>
-   <a href="#" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>
-  </a>
-    <a href="#" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="60"/>
-  </a>
-   <a href="#" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/>
-  </a>
- <a href="#" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
-  </a>
-</div>
+
 <hr>
 <div id="badges">
   <a href="https://www.linkedin.com/in/andreaborelli/" target="_blank">
