@@ -1,7 +1,7 @@
 ## Welcome to my github profile
 
 ## useful tutorials
-[Eloquent Javascript](https://eloquentjavascript.net/){ : target="_blank"}
+[Eloquent Javascript](https://eloquentjavascript.net/target="_blank")
 
 [Learn Javascript](https://learnjavascript.online/)
 
