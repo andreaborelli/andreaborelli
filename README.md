@@ -5,8 +5,6 @@
 
 [Learn Javascript](https://learnjavascript.online/)
 
-
-[Opens in new tab](https://andreaborelli.it?to=/learnjavascript.online)
 <!--
 **andreaborelli/andreaborelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
