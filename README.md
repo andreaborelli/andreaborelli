@@ -66,7 +66,7 @@
 
 
 ## Connect with me  
-<div align="center">
+<div align="left">
 <a href="https://twitter.com/andreaborellia" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
@@ -89,12 +89,12 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=andreaborelli&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=andreaborelli&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
 
-<div align="center">
+<div align="left">
 <img src="https://komarev.com/ghpvc/?username=andreaborelli&&style=flat-square" align="center" />
 </div>  
   
@@ -106,7 +106,7 @@
 
 <br/>  
 
-<div align="center">
+<div align="left">
             <a href="https://paypal.me/andreaborelli" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
