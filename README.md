@@ -1,17 +1,9 @@
-<div id="header">
-    <h1>Welcome to my github profile:wave:	</h1> 
+## Welcome to my github profile
 
-</div>
+## useful tutorials
+[Eloquent Javascript](https://eloquentjavascript.net/){:target="_blank"}
 
-
-
- <h3>. . . u p d a t e . . .</h3>
-
-
-<a href="https://eloquentjavascript.net/" target="_blank">Eloquent Javascript</a>
-
-
-<a href="https://learnjavascript.online/" target="_blank">Learn Javascript</a>
+[Learn Javascript](https://learnjavascript.online/)
 
 <!--
 **andreaborelli/andreaborelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
