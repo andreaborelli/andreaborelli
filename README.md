@@ -12,7 +12,7 @@
 </div>  
   
 
-### <div align="center">I'm Andrea, a Junior developer 👨‍💻 working remotely since 2022 🚀</div>  
+### <div align="left">I'm Andrea, a Junior developer 👨‍💻 working remotely since 2022 🚀</div>  
   
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
