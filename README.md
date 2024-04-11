@@ -12,7 +12,7 @@
 </div>  
   
 
-### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">I'm Andrea, a Junior developer 👨‍💻 working remotely since 2022 🚀</div>  
   
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
@@ -67,7 +67,14 @@
 
 ## Connect with me  
 <div align="left">
-<a href="https://twitter.com/andreaborellia" target="_blank">
+
+  <div align="left">
+  <a href="https://www.linkedin.com/in/andreaborelli/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+<!-- <a href="https://twitter.com/andreaborellia" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/andreaborelli" target="_blank">
@@ -82,7 +89,7 @@
 <a href="https://codepen.com/andreaborelli" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>  
-</div>  
+</div>  -->
   
 
 <br/>  
@@ -153,11 +160,7 @@ Here are some ideas to get you started:
 
 <h2 align="left"></h2>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/andreaborelli/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+
 
 ###
 <h2 align="left"></h2>
