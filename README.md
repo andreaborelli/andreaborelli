@@ -1,9 +1,6 @@
 ## Welcome to my github profile
 
-## useful tutorials
-[Eloquent Javascript](https://eloquentjavascript.net/)
 
-[Learn Javascript](https://learnjavascript.online/)
 
 
 
@@ -12,10 +9,14 @@
 </div>  
   
 
-### <div align="left">I'm Andrea, a Junior developer 👨‍💻 work remotely and in the office since 2022 🚀</div>  
+### <div align="left">I'm Andrea, a Junior developer 👨‍💻 work remotely and in the office since 2022 🚀</div> 
+
+## useful tutorials
+[Eloquent Javascript](https://eloquentjavascript.net/)
+[Learn Javascript](https://learnjavascript.online/)
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+<!--- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
   
 
 - 🌱 I’m currently learning Hyperledger and Kubernetes  
@@ -24,7 +25,7 @@
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I use tabs over spaces  -->
   
 
 <br/>  
