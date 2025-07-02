@@ -1,21 +1,44 @@
-## Welcome to my github profile
+### Hello there 👋
+
+- 💻 I've been working as a Junior Software Developer since April 2022, when I kicked off my internship at DGS GE Italy. Work remotely and in the office.
 
 
+### 🔧 Skills
 
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
+<!--
+[## 🌱 Currently Learning
 
-<div align="left">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+- Advanced Angular techniques and best practices  
+- Modern web app architectures  
+- Frontend performance optimization  
 
-### <div align="left">I'm Andrea, a Junior developer 👨‍💻 work remotely and in the office since 2022 🚀</div> 
+---
 
-## useful tutorials
-[Eloquent Javascript](https://eloquentjavascript.net/)
+## 💡 What I Love to Do
 
-[Learn Javascript](https://learnjavascript.online/)
-  
+- Build clean, functional user interfaces  
+- Experiment with new frameworks and technologies  
+- Collaborate in agile and dynamic teams  
+
+---
+
+## 📫 Get in Touch
+](url)
+Feel free to reach out for a chat or collaboration!
+
+---
+
+Thanks for stopping by! 🌟-->
+
 
 <!--- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
   
@@ -29,7 +52,7 @@
 - ⚡ Fun fact: I use tabs over spaces  -->
   
 
-<br/>  
+<!-- <br/>  
 
 
 ## My Skill Set  
@@ -74,7 +97,7 @@
   <a href="https://www.linkedin.com/in/andreaborelli/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-</div>
+</div> -->
 
 <!-- <a href="https://twitter.com/andreaborellia" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
@@ -97,7 +120,7 @@
 <br/>  
 
 
-## Github Stats  
+<!-- ## Github Stats  
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=andreaborelli&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
@@ -113,9 +136,9 @@
 
   
 
-<br/>  
+<br/>  -->
 
-<div align="left">
+<!-- <div align="left">
             <a href="https://paypal.me/andreaborelli" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
@@ -123,8 +146,8 @@
                 />
             </a></div>
 <br />
+-->
 
-----
 
 <!--
 **andreaborelli/andreaborelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
