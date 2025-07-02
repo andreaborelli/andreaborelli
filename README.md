@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- 💻 I've been working as a Junior Software Developer since April 2022. <!-- when I kicked off my internship at DGS GE Italy. Work remotely and in the office.-->
+#### - 💻 I've been working as a Junior Software Developer since April 2022. <!-- when I kicked off my internship at DGS GE Italy. Work remotely and in the office.-->
 
 
 ### 🔧 Skills
